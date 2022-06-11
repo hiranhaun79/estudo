@@ -1,0 +1,18 @@
+## Revisar
+
+Comandos para o terminal git bash.
+Pesquisar as extensões de comando:
+-A significal ALL para o comando add
+-m significa incluir mensagem para comando commit
+etc.
+
+CICLO DE VIDA DE OBJETOS
+Untracked
+Unmodified
+Modified
+Staged
+
+ADD - Comando para adicionar arquivos dentro do repositório (local)
+COMMIT - Comando que consolida altarações de códigos dentro do repositório.
+PUSH - Comando para empurrar o repositório local para o repositório remoto no GitHub
+
