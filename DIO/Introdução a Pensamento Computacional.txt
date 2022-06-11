@@ -1,0 +1,7 @@
+Noções básicas sobre pensamento computacional com alguns comandos básicos sobre programação.  
+
+## Link importante  
+[Portugol](https://portugol-webstudio.cubos.io/)  
+Site para treino de linguagem de programação.
+
+
